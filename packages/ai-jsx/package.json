@@ -387,7 +387,7 @@
     "ink": "^4.2.0",
     "js-tiktoken": "^1.0.7",
     "js-yaml": "^4.1.0",
-    "langchain": "^0.0.143",
+    "langchain": "^0.3.8",
     "lodash": "^4.17.21",
     "ml-distance": "^4.0.1",
     "mpg123-decoder": "^0.4.9",

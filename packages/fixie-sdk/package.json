@@ -36,7 +36,7 @@
     "@opentelemetry/sdk-trace-base": "^1.17.1",
     "dotenv": "^16.3.1",
     "fastify": "^4.20.0",
-    "jose": "^4.14.4",
+    "jose": "^4.15.5",
     "yargs": "^17.7.2"
   },
   "devDependencies": {

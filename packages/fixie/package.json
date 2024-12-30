@@ -29,7 +29,7 @@
     "commander": "^11.0.0",
     "execa": "^8.0.1",
     "extract-files": "^13.0.0",
-    "graphql": "^16.8.0",
+    "graphql": "^16.8.1",
     "js-yaml": "^4.1.0",
     "open": "^9.1.0",
     "ora": "^7.0.1",
